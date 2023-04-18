@@ -1,0 +1,9 @@
+.container{
+    margin:10% 40%;
+    display: grid;
+    grid-column: 1;
+    row-gap: 50px;
+}
+input{
+    
+}
